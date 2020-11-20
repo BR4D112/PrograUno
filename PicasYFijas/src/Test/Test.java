@@ -7,7 +7,8 @@ import java.util.Scanner;
  * @author Carlos Hernado Lozano
  * @author Esteban Ruiz 
  * @author Jose Misael Paez
- * TODO: Agregen a los otros dos que me da pereza
+ * @author Diego Alejandro Rubiano
+ * @author Diego Mauricio Sierra
  * 
  * 
  */

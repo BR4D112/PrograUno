@@ -93,7 +93,7 @@ public class Test {
         //        int value = arrayOne[i];
         //        for (int j = 0; j < arrayTwo.length; j++) if (value == arrayTwo[i]) picas++;
         //    }
-        }
+        //}
     }
 
 }
